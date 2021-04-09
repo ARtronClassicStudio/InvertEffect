@@ -1,7 +1,7 @@
 # InvertEffect
 
 (ENG)
-The effect of inverting colors, a demonstration of the effect can be found here:
+The effect of inverting colors, a demonstration of the effect can be found here: https://youtu.be/9tsnQsd7pJs
 
 Installation:
 
@@ -12,7 +12,7 @@ Installation:
 
 (RUS)
 
-Эффект инвертирование цветов, демонстрация эффекта можете посмотреть тут:
+Эффект инвертирование цветов, демонстрация эффекта можете посмотреть тут: https://youtu.be/9tsnQsd7pJs
 
 Установка:
 
