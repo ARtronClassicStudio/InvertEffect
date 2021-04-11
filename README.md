@@ -18,5 +18,5 @@ Installation:
 
 1. Скачайте InvertEffect.unitypackage  или клонируйте репозиторий.
 2. Импортируйте пакет в ваш проект.
-3. В инспекторе добавьте скрипт (через АддКомпонент) Effect>Invert Effect Color
+3. В инспекторе добавьте скрипт (через AddComponent) Effect>Invert Effect Color
 4. Наслаждайтесь!
